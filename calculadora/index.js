@@ -21,6 +21,6 @@ switch (oper) {
         operations.div(num1, num2)
         break;
     default:{
-        console.log("Operação inválida")
+        console.log("Operação inválida tente novamente")
     }
 }
